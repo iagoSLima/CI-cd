@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iagoSLima/CI-cd/issues"
   },
-  "homepage": "https://github.com/iagoSLima/CI-cd#readme"
+  "homepage": "https://github.com/iagoSLima/CI-cd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
